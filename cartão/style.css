@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+/*card principal */
+.card {
+    width: 600px;
+    height: 200px;
+    padding: 1px 20px;
+    margin: auto;
+    background-size: cover;
+    background: url(./img/backgorund.png) no-repeat;
+    margin-top: 10%;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+/*imagens das logos */
+.instagram {
+    list-style-image: url(./img/Insta.png);
+}
+
+.twitter {
+    list-style-image: url(./img/Twitter.png);
+}
+
+.youtube {
+    list-style-image: url(./img/Youtube.png);
+}
